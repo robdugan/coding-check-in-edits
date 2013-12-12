@@ -1,0 +1,13 @@
+h1 {
+	font-size: 3em;
+	font-family: 'Lobster', cursive;
+	color: orange;
+}
+
+.lib {
+	font-family: 'Wellfleet', cursive;
+	font-style: bold;
+}
+body {
+	background-color: white;
+	}
